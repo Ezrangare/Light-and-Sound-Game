@@ -1,6 +1,6 @@
 Name: Ezra Ngare
 
-<img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Pre work.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
