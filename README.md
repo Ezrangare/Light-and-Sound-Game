@@ -76,7 +76,7 @@ Building extra features was the most time-consuming part. In particular, adding 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://www.loom.com/share/7acbf96dd0c34eb89678d4cc959826c2)
 
 
 ## License
