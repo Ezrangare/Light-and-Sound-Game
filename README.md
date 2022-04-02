@@ -1,4 +1,4 @@
-Name: Boquan Yin
+Name: Ezra Ngare
 
 <img src='walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
